@@ -1049,4 +1049,6 @@ Wire Wire Line
 	4500 2500 5100 2500
 Wire Wire Line
 	5100 2400 4500 2400
+Text Notes 10450 7200 2    50   ~ 0
+Copyright Randy Glenn 2018. Licensed under CERN OHL V1.2\nYou may redistribute and modify this documentation under the terms of the CERN OHL V1.2\n(http://ohwr.org/cernohl). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED\nWARRANTY, INCLUDING MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN OHL V1.2 for applicable conditions.
 $EndSCHEMATC
